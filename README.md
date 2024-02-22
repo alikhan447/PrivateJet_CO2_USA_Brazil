@@ -21,7 +21,7 @@ This repository contains all the data, code, and scripts used for our research p
 
 # Data & Sources:
 
-Unofficial SDK for [FlightRadarAPI 1.3.25](https://pypi.org/project/FlightRadarAPI/#description) for Python 3
+Unofficial SDK for [FlightRadarAPI 1.3.25](https://pypi.org/project/FlightRadarAPI/#description) for Python 3 and [ICAO Aircraft Type Designators](https://www.icao.int/publications/DOC8643/Pages/Search.aspx)
  
 # Methodology:
 
